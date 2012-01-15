@@ -1,0 +1,19 @@
+philosophers application (erlang version)
+
+to compile and run this application do the following:
+
+- install the erlang (on ubuntu linux e.g.  sudo apt-get install erlang)
+- open a termnial window and navigate to this directory
+- open erlang shell by simply typing erl into the command line, e.g.:
+
+	user@ubuntu:~/Documents/code$ erl
+
+- when the shell starts, type the following to compile the erlang source code:
+
+c(philosophers).
+
+- to run the application, type:
+
+philosophers:dinner().
+
+
